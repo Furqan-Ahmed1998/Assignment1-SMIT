@@ -127,7 +127,7 @@
 // Question No 7 starts //
 
 // for (let i = 1; i <=5; i++) {
-// 	let row = ""
+// 	let row = "</br>"
 // 	for (let j = 1; j<= i; j++) {
 // 		row +="*" 
 // 	}
